@@ -29,7 +29,7 @@ public class Question5
     Scanner in = new Scanner(System.in);
     
     int count[] = new int[10];
-    System.out.println("Enter the number of integers you would like to input (Max 10): ");
+    //System.out.println("Enter the number of integers you would like to input (Max 10): ");
     int num = in.nextInt();
     System.out.println("Input " + num + " integers: ");
     for (int i = 0; i < num; i++)
