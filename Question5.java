@@ -46,7 +46,7 @@ public class Question5
         max = n;
       }
     }
-    System.out.println("Mode value is: ");
+    //System.out.println("Mode value is: ");
     for (int i = 0; i < count.length; i++)
     {
       if (count[i] == max)
